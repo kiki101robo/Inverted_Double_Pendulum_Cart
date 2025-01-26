@@ -38,3 +38,7 @@ This project involves the development of a two-load crane control system, implem
 - **Response to Initial Conditions for x(t), θ1, θ2**
   ![Response to Initial Conditions for x(t), θ1, θ2](![image](https://github.com/user-attachments/assets/5c64727d-aedb-4166-87b7-1dd5ab440ed6)
   ![image](https://github.com/user-attachments/assets/6a478b70-ce8c-456a-b7c0-333a53429966)![image](https://github.com/user-attachments/assets/6f7f0b1b-c575-4b65-8972-4c6e1d105d46))
+
+[annotated-vigneshr_kiki1_project2-2.pdf](https://github.com/user-attachments/files/18552056/annotated-vigneshr_kiki1_project2-2.pdf)
+
+## Detailed Report can be seen here: [vigneshr_kiki1_project2-2.pdf](https://github.com/user-attachments/files/18552056/annotated-vigneshr_kiki1_project2-2.pdf)
